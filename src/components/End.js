@@ -24,10 +24,9 @@ const End = (props) => {
           {/* <a href="https://www.survio.com/survey/d/G9Q1M7L8V7J5L3I9V">
             Umfrage starten */}
           {/* </a> */}
-          <a href="https://morza95.github.io">
+          <a href="https://www.kaiuby2.github.io">
             App-Version 2 starten
           </a>
-          <button type="submit">Zurück auf Anfang</button>
         </div>
       </form>
     </div>
