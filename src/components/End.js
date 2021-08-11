@@ -17,7 +17,8 @@ const End = (props) => {
             {/* <p>Klicken Sie jetzt bitte auf den Button, um zur Umfrage zu gelangen</p> */}
             <p>
               {" "}
-              Klicken Sie jetzt bitte auf den Button, um zur Umfrage zu gelangen
+              Klicken Sie jetzt bitte auf den Button, um zur zweiten App-Version
+              zu gelangen
               <br></br>
               <br></br>
             </p>
